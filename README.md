@@ -6,7 +6,8 @@ This project use a simple graphical interface built with Python's tkinter, the p
 
 # Result
 The are three kinds of lines in a visualization pic. The blue line shows trend of the amount of fuel used in one round with time. The red line shows the average fuel consumption, while the black line is 1.1x the value of red line, representing the boundary of normal records and abnormal records.
-
-<img src="test.png" alt="example result" width="300"/>
+<p align="center">
+  <img src="test.png" alt="example result" width="500"/>
+</p>
 
 
